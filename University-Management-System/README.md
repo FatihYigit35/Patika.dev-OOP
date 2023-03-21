@@ -1,1 +1,1 @@
-![UML](./University UML.png)
+<img src="./University UML.png">

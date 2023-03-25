@@ -17,3 +17,4 @@
 * An aircraft type may need a certain number of pilots.
 
 ## UML Diagram
+![Flights UML Diagram](./FlightsUML.png)

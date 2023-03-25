@@ -11,3 +11,4 @@
 * If the film is not available, it can be requested.
 
 ## UML Diagram
+![Movies UML Diagram](./MoviesUML.png)
